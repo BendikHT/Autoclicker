@@ -1,2 +1,3 @@
 # Autoclicker
-Website for publishing Autoclciker
+Website for publishing Autoclicker
+
